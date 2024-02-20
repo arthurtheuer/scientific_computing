@@ -48,9 +48,6 @@ Using samples drawn from a lognormal distribution, this project illustrates how 
 ## Dependencies, installation and usage
 Each of the directories in this repository contains a `README.md` file, detailing any dependencies, how to run the files, their usage and additional information about the projects.
 
-## Project results
-
-
 ## Contributing
 If you want to contribute to this project, found any bugs or have new feature ideas, please open an issue!
 

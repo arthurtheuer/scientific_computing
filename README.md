@@ -45,12 +45,6 @@ Using samples drawn from a lognormal distribution, this project illustrates how 
 
 ***Figure 6.1:** Histogram of samples drawn from a lognormal distribution (left) and dependency of the standard error on the sample size (right).*
 
-### 7. &nbsp; <a href="vertex_model">`vertex_model`</a> &nbsp; Vertex model for tissue growth
-This project implements a vertex model for cellular growth.
-
-### 8. &nbsp; `finite_difference` &nbsp; Finite difference method
-TEXT
-
 ## Dependencies, installation and usage
 Each of the directories in this repository contains a `README.md` file, detailing any dependencies, how to run the files, their usage and additional information about the projects.
 

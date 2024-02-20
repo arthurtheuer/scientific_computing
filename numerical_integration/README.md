@@ -21,7 +21,7 @@ pip install numpy scipy matplotlib scikit-learn
 Re-running the code in this notebook requires an installation of Python 3 and the libraries mentioned above. No external files are needed.
 
 ## Usage
-The notebooks are annotated and self-explanatory. The implementation of the integration methods was realized using `numpy` and heavily relies on array slicing, leading highly efficient computation compared to more naive approaches.
+The notebooks are annotated and self-explanatory. The implementation of the integration methods was realized using `numpy` and heavily relies on array slicing, leading to highly efficient computation compared to more naive approaches.
 
 ## Graphical output
 <img src="output/convergence_order.png" alt="Convergence order plot of different integration methods">
